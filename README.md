@@ -30,4 +30,4 @@
 
 
 
-[![Aung Khant Maw's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aungkhantmaw64&custom_title=Aung%20Khant%20Maw's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aung Khant Maw's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aungkhantmaw64&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
