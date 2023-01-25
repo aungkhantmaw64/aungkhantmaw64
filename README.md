@@ -15,7 +15,7 @@
 - :telescope: I'm a passionate Embedded Systems Engineer, who loves to develop portable device drivers and libraries on his free time.
 - :seedling: I work on both embedded hardware and firmware on daily basis at work.
 - :zap: I am also intrigued by machine learning especially TinyML for embedded devices.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/aungkhantmaw)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aungkhantmaw)
 ---
 
 <div align="center">
