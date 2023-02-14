@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=0072b1&center=true&vCenter=true&width=1040&height=50&lines=Hey%2C+I'm+Aung+Khant+Maw+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Aung Khant Maw. Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=0072b1&center=true&vCenter=true&width=1040&height=50&lines=Hey%2C+I'm+Aung+Khant+Maw+Welcome+To+My+Profile!" align="middle" alt="Hey, I'm Aung Khant Maw. Welcome to my Profile! animated typed out">
 
 ---
 <p align="center">
