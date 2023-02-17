@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungkhantmaw64&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/aungkhantmaw64?theme=wtf)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AungKhantMaw64?theme=unicorn&font=MedievalSharp&ext=activity)
 
 <div align="center">
   <h2> <strong> My Github Stats </strong> </h2>
