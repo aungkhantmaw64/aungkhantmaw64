@@ -20,14 +20,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungkhantmaw64&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+![Leetcode Stats](https://leetcard.jacoblin.cool/aungkhantmaw64?theme=wtf)
 
 <div align="center">
   <h2> <strong> My Github Stats </strong> </h2>
-  <hr>
   <img src="https://github-profile-trophy.vercel.app/?username=aungkhantmaw64&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
-
-
 
 
 [![Aung Khant Maw's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aungkhantmaw64&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
