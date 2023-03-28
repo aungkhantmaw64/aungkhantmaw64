@@ -1,5 +1,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=0072b1&center=true&vCenter=true&width=1040&height=50&lines=Hey%2C+I'm+Aung+Khant+Maw+Welcome+To+My+Profile!" align="middle" alt="Hey, I'm Aung Khant Maw. Welcome to my Profile! animated typed out">
 
+<div align="center">
+  <h2> <strong> My Github Stats </strong> </h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=aungkhantmaw64&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+    
 ---
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=aungkhantmaw64&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
@@ -16,15 +20,12 @@
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aungkhantmaw)
 
 ## Summary:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aungkhantmaw64)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aungkhantmaw64&theme=dracula) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungkhantmaw64&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aungkhantmaw64&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aungkhantmaw64&theme=dracula)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AungKhantMaw64?theme=unicorn&font=MedievalSharp&ext=activity)
-
-<div align="center">
-  <h2> <strong> My Github Stats </strong> </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=aungkhantmaw64&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/aungkhantmaw64?theme=dark&font=Noto%20Traditional%20Nushu&ext=heatmap)
 
 
-[![Aung Khant Maw's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aungkhantmaw64&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
