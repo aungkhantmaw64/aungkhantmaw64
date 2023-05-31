@@ -25,7 +25,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aungkhantmaw64&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aungkhantmaw64&theme=dracula)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aungkhantmaw64?theme=light&font=Abel)
+![LeetCode Stats](https://leetcard.jacoblin.cool/aungkhantmaw64?theme=dark&font=Abel)
 
 
 
