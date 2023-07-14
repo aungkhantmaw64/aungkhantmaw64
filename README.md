@@ -27,5 +27,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aungkhantmaw64?theme=dark&font=Abel)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aungkhantmaw64&show_icons=true&locale=en" alt="aungkhantmaw64" /></p>
 
 
