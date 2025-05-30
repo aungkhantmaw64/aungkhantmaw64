@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=0072b1&center=true&vCenter=true&width=1040&height=50&lines=Hey%2C+What's+up?" align="middle" alt="Hey, what's up? animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=0072b1&center=true&vCenter=true&width=1040&height=50&lines=Have+you+seen+an+alien%2C+please?" align="middle" alt="Hey, what's up? animated typed out">
 
 ---
 <p align="center">
